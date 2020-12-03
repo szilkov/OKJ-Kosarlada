@@ -1,0 +1,6 @@
+C:\Users\Szilvia\source\repos\Kosarlabda\Kosarlabda\bin\Debug\Kosarlabda.exe.config
+C:\Users\Szilvia\source\repos\Kosarlabda\Kosarlabda\bin\Debug\Kosarlabda.exe
+C:\Users\Szilvia\source\repos\Kosarlabda\Kosarlabda\bin\Debug\Kosarlabda.pdb
+C:\Users\Szilvia\source\repos\Kosarlabda\Kosarlabda\obj\Debug\Kosarlabda.csprojAssemblyReference.cache
+C:\Users\Szilvia\source\repos\Kosarlabda\Kosarlabda\obj\Debug\Kosarlabda.exe
+C:\Users\Szilvia\source\repos\Kosarlabda\Kosarlabda\obj\Debug\Kosarlabda.pdb
